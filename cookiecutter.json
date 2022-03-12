@@ -1,0 +1,18 @@
+{
+    "package_name": "",
+    "package_name_stylized": "",
+    "github_organization_name": "jakeantmann",
+    "github_repository_name": "{{ cookiecutter.package_name.lower().replace(' ', '_') }}",
+    "short_description": "",
+    "version": "0.1.0",
+    "author_name": "Jake Antmann",
+    "author_email": "jakeantmann@gmail.com",
+    "license": [
+        "MIT License",
+        "BSD License",
+        "ISC License (ISCL)",
+        "Apache Software License 2.0",
+        "GNU General Public License v3",
+        "Other"
+    ]
+}
